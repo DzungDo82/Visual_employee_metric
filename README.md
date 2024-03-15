@@ -1,4 +1,5 @@
-# Employee Performance Metrics - using Power BI and Excel
+# Employee Performance Metrics 
+### using Power BI and Excel
 
 -	The company addressed declining performance indexes to identify root causes without adversely affecting employee morale, leveraging insights for strategic interventions.
 -	The implementation of predictive analytics enabled the accurate forecasting of attrition rates based on crucial employee features.
